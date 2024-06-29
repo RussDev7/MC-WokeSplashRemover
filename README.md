@@ -36,3 +36,5 @@ You are welcome here!
 I'm glad you're here!
 You are valid!
 ```
+### How to install:
+Download the latest [release](https://github.com/RussDev7/MC-WokeSplashRemover/releases) and move the compressed `.zip` file to your resource packs folder: `%appdata%\.minecraft\resourcepacks`
