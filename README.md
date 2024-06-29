@@ -3,7 +3,7 @@ This project aims at removing all the political garbage added to this kids game.
 
 ### Bellow is a list of splash text's this texturepack removes:
 ```
-==SocJus==
+==SocJus Rhetoric==
 Stand up for equality in your community!
 Support the BIPOC community and creators!
 Educate your friends on anti-racism!
