@@ -1,5 +1,5 @@
 # Removes The Woke Splash Text In Minecraft
-This project aims at removing all the political garbage from this kids game.
+This project aims at removing all the political garbage added to this kids game. Stand agianst the indoctrination of our children.
 
 ### Bellow is a list of splash text's this texturepack removes:
 ```
