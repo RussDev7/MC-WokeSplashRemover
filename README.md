@@ -1,9 +1,9 @@
 # Removes The Woke Splash Text In Minecraft
-This project aims at removing all the political garbage added to this kids game. Stand against the indoctrination of our children.
+This project aims to remove specific splash texts in Minecraft that include woke, political or otherwise indoctrinating content, ensuring the game remains a neutral and enjoyable environment for all players.
 
-### Bellow is a list of splash text's this texturepack removes:
+### Below is a list of splash texts this texture pack removes:
 ```
-==SocJus Rhetoric==
+==Social Justice==
 Stand up for equality in your community!
 Support the BIPOC community and creators!
 Educate your friends on anti-racism!
@@ -13,7 +13,7 @@ Learn about allyship!
 Be anti-racist!
 Black lives matter!
 
-==Covid==
+==COVID-19==
 Hang out with your friends online!
 Shop for your elders!
 Save the world – stay inside!
